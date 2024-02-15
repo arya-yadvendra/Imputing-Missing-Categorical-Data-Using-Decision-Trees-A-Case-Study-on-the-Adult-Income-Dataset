@@ -1,4 +1,4 @@
-# Imputing-Missing-Categorical-Data-Using-Decision-Trees-A-Case-Study-on-the-Adult-Income-Dataset
+# Imputing Missing Categorical Data Using Decision Trees: A Case Study on the Adult Income Dataset
 
 Abstract:
 Missing data is a common challenge in datasets, often requiring imputation for analysis. This study explores the use of decision tree classifiers for imputing missing categorical values in the Adult Income Dataset. The dataset contains information on individuals' demographic and employment characteristics, with missing values denoted by '?' in categorical columns. We propose a method where decision tree classifiers are trained on non-missing data to predict missing values. The imputed values are then used to complete the dataset for further analysis. Our results show that this approach effectively imputes missing values, improving the dataset's completeness without introducing significant bias.
